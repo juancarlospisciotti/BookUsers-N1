@@ -2,13 +2,11 @@ package ui;
 
 import javax.swing.*;
 
-public class Creditos extends JFrame {
+public class CreditosForm extends JFrame {
     private JPanel panelPrincipal;
     private JTextArea txtCreditos;
-    private JTextArea Creditos;
-    private JPanel panel1;
 
-    public Creditos() {
+    public CreditosForm() {
         setContentPane(panelPrincipal);
         setTitle("BookUsers - Créditos");
         setDefaultCloseOperation(DISPOSE_ON_CLOSE);
