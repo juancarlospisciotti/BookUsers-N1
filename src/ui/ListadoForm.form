@@ -15,7 +15,7 @@
         <properties/>
         <border type="none"/>
         <children>
-          <component id="fe21" class="javax.swing.JList" binding="IstUsuarios">
+          <component id="fe21" class="javax.swing.JList" binding="lstUsuarios">
             <constraints/>
             <properties/>
           </component>

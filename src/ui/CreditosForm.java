@@ -15,10 +15,12 @@ public class CreditosForm extends JFrame {
         setVisible(true);
 
         txtCreditos.setEditable(false);
-        txtCreditos.setText("Versión alternativa sin tema gráfico.\n\n" +
-                "Integrantes:\n" +
-                "- juan carlos Pisciotti (UNP-UMAB-9FUD)\n" +
-                "- juan sebastian Quintero (UNP-JFNY-XXP3)");
+        txtCreditos.setText("""
+                Versión alternativa sin tema gráfico.
+                
+                Integrantes:
+                - juan carlos Pisciotti (UNP-UMAB-9FUD)
+                - juan sebastian Quintero (UNP-JFNY-XXP3)""");
     }
 }
 
